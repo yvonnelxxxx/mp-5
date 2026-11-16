@@ -58,7 +58,7 @@ export default function UrlForm() {
         <label htmlFor="alias">Custom Alias</label>
         <br />
         <div className="flex">
-          <p className="py-1 pr-1 text-gray-400">https://mp-5.vercel.app/</p>
+          <p className="py-1 pr-1 text-gray-400">https://mp-5-xp5h.vercel.app/</p>
           <input
               id="alias"
               name="alias"
